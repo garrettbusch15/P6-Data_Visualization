@@ -1,0 +1,46 @@
+
+
+
+html *
+{
+		font-size: 1em;
+		font-family: Arial;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2em;
+}
+
+div{
+	padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+p{
+
+    font-weight: bold;
+    font-size: 15px;
+
+}
+
+circle.dimple-all{
+    fill:red;
+    }
+
+div.conclusion_enclosure{
+    border-style: solid;
+    border-width: medium;
+}	
+	
+div.conclusion{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 0px;
+}
+
+div.conclusion_summary{
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+}
