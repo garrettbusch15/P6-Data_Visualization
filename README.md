@@ -6,6 +6,8 @@ DESIGN (prior changes to index_html_v1 were not recorded)
 
 Changes I've incorporated were to simplify the groups I've utilized. Another design choice was to incorporate 2 additional graphs as well as a summary for the reader. I feel from including the summary I've made this into an author driven narrative; however, this is able to properly convey my overall message, which was that the was a significant difference in groups and how life was preserved on the Titanic.
 
+index_html_v2: I've changed 3rd graphic (per the note below). 
+
 FEEDBACK
 
 My first feedback with this data was as so:
@@ -17,6 +19,8 @@ What do you think is the main takeaway from this visualization? From my perspect
 Is there something you don’t understand in the graphic? Some of the missing x/y axis labels were missing and it was hard to know how this was scaled.
 
 My next feedback is expected in my 1st submission to Udacity.
+
+My second feedback was from a Udacity evaluation. The major changes from this review included: reconsidering the label/explaination piece used after my 3rd visual. Instead of using a lengthy explaination, I've converted to more of a complete graphic with legend that allows the reader to interprete the same finding. The other piece of feedback I integrated was inclusion of more notes in my javascript file.
 
 RESOURCES
 

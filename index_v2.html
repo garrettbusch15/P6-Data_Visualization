@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Titanic Data Exploration</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+
+<body>
+<h2>
+    
+    <span>Titanic Dataset Exploration</span>
+   </h2>
+
+   <div align="center">
+		<p>On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. 
+		One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class. 
+		The dataset is explored for such patterns and the visualizations are plotted on demonstrate the findings. 
+		</p>
+	</div>
+
+
+	<div align="center">
+		<div id="visA"></div>
+		<p>The survival rate of a child is much higher than the survival rate of an adult
+		</p>
+	</div>
+	<div  align="center">
+		<div id="visB"></div>
+		<p>The people who travelled with company had a higher survival rate than those who did not.
+		</p>
+	</div>
+	<div  align="center">
+		<div id="visC"></div>
+		<p>Survival % by class: 1 > 2 > 3</p>
+	</div>
+
+	<div class="conclusion_enclosure">
+	<div class="conclusion_summary">
+		<p>In summary:</p>
+	</div>
+	<div class="conclusion">
+		<p>- From a total of 577 male passengers, only 109 i.e less than 20 percent survived. However, out of the total 314 female passengers, 233 i.e upto 74 percent of the female population aboard RMS Titanic survived. The survival rate of female passengers was much greater than that of male passengers.</p>
+		<p>- A higher percentage of children made it through as compared to the adults.</p>
+		<p>- 62.96 percent of the 1st class passengers survived whereas, the survival percentage amongst the third class passengers was only a third of this.</p>
+		<p>- It is observed that the rate of survival is higher for the passengers travelling with family as compared to those travelling alone.</p>
+
+	</div>
+	</div>
+	
+	<script src="js/main.js"></script>
+</body>
+
+</html>

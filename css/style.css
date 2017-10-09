@@ -31,6 +31,7 @@ circle.dimple-all{
 div.conclusion_enclosure{
     border-style: solid;
     border-width: medium;
+	padding-top: 10px;
 }	
 	
 div.conclusion{
